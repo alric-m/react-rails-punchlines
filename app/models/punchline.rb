@@ -1,0 +1,2 @@
+class Punchline < ApplicationRecord
+end
